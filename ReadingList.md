@@ -181,5 +181,5 @@ https://publications.computer.org/it-professional/2018/02/08/fake-news-economic-
 https://foreignpolicy.com/2018/05/29/macrons-fake-news-solution-is-a-problem/
 https://thespinoff.co.nz/society/13-08-2018/misinformation-is-riding-a-digital-wave-heres-how-we-can-counter-it/
 https://www.washingtonpost.com/opinions/beware-the-digital-censor/2018/08/12/997e28ea-9cd0-11e8-843b-36e177f3081c_story.html
-
+https://newamericadotorg.s3.amazonaws.com/documents/Santa_Clara_Principles.pdf
 
