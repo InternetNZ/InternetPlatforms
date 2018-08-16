@@ -4,7 +4,7 @@ Using the matrix of "Fake News. It's complicated", and "Information Disorder", w
 
 ![Image of the seven types of misinformation across the spectrum](images/FDN_Misinfo_Matrix-01-1024x576.jpg?raw=true)
 
-![Image of agent-message-interpreter framework of misinformation](Images/agentmessageinterpreter.PNG?raw=true)
+![Image of agent-message-interpreter framework of misinformation](https://github.com/InternetNZ/Platforms/blob/master/Images/agentmessageinterpreter.PNG?raw=true)
 
 Further Reading
 - https://firstdraftnews.org/fake-news-complicated/
