@@ -1,4 +1,4 @@
-# Platforms
+# InternetNZ on platforms and misinformation
 
 Welcome!
 This is the repository for the work that InternetNZ's policy team is doing in the 2018 looking at Internet platforms.
