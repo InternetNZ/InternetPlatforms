@@ -50,7 +50,7 @@ This blogpost is a brief look at some of the issues InternetNZ is interested in,
 
 For our purposes, a platform is an online business, based on facilitating interaction (communication, transactions etc) between users. Platforms are the agora, or central meeting space, where consumers, producers, content creators all flock, and they succeed when they can capture a market, and build on network effects to attract and keep people's attention. 
 
-AirBnb owns no property, Uber owns no cars, Facebook creates no content[^1]. These platforms are valuable for their scale and audience, and the data they capture, rather than any tangible assets. _What a company owns matters less than what it can connect_[^2]_._
+AirBnb owns no property, Uber owns no cars, Facebook creates no content. These platforms are valuable for their scale and audience, and the data they capture, rather than any tangible assets. _What a company owns matters less than what it can connect.
 
 We are growing increasingly reliant on platforms, while also growing increasingly aware of the vulnerable situation we have put ourselves in, where participating in these platforms means sharing our data and attention in a way that the platforms and others can see, sell, and influence.
 
@@ -68,7 +68,7 @@ Information disorder, bots, algorithms and filter bubbles work together to creat
 
 Cambridge Analytica gathered user data to craft and target political messages, intending to influence election outcomes. Users may not have expected it, but the mass collection of their data enabled by online platforms enabled it anyway.
 
-Algorithmic feeds can make it cheap and easy to deliver messages to people. Easy targeting of those messages can separate audiences, meaning there's no real public debate or oversight. By sharing bad information, bad actors and others can cause a spiral of information disorder[^3] where it is hard to know what anyone else is seeing, whether other accounts are bots or humans, and whether disagreement is honest or is part of an information campaign. Even honest people wanting honest conversations cannot escape the effects of information disorder online. 
+Algorithmic feeds can make it cheap and easy to deliver messages to people. Easy targeting of those messages can separate audiences, meaning there's no real public debate or oversight. By sharing bad information, bad actors and others can cause a spiral of information disorder where it is hard to know what anyone else is seeing, whether other accounts are bots or humans, and whether disagreement is honest or is part of an information campaign. Even honest people wanting honest conversations cannot escape the effects of information disorder online. 
 
 
 
@@ -87,7 +87,7 @@ But when your biggest revenue stream is advertising revenue, what does this mean
 
 **Extremism and radicalisation: **[Zeynep's youtube article]
 
-Vocal supporters of free speech promote a "marketplace of ideas", where arguments compete on equal terms.. This assumes all the relevant perspectives and views get their fair share of attention, which is at odds with the algorithmic sorting that creates winners and losers in the attention sweepstakes[^4]. 
+Vocal supporters of free speech promote a "marketplace of ideas", where arguments compete on equal terms.. This assumes all the relevant perspectives and views get their fair share of attention, which is at odds with the algorithmic sorting that creates winners and losers in the attention sweepstakes. 
 
 
 
@@ -100,14 +100,14 @@ Vocal supporters of free speech promote a "marketplace of ideas", where argument
 
 Caption: On Twitter, liberals (blue) and conservatives (red) network more with like-minded users, with less traffic crossing the political divide.
 
-Echo chambers and filter bubbles are phrases used to describe the idea that the way we follow people and engage online means we are only exposed to ideas and opinions that reflect and reinforce our own. There is a concern that people are prone to self selecting news sources, and people or accounts to follow, that will confirm their pre-existing biases, and lead to polarisation and extremism. [ref][^5]
+Echo chambers and filter bubbles are phrases used to describe the idea that the way we follow people and engage online means we are only exposed to ideas and opinions that reflect and reinforce our own. There is a concern that people are prone to self selecting news sources, and people or accounts to follow, that will confirm their pre-existing biases, and lead to polarisation and extremism.
 
 
 *   Are New Zealanders operating inside their own echo chambers? 
 
 What happens when algorithms meet filter bubbles? If a platform is incentivised to show you articles and opinions that you will respond to, will it lead to a narrowing of the types of content you see? 
 
-There are ways we can test whether this polarisation occurs in New Zealand online communities, but the work hasn't been done in New Zealand yet. The good news is that current research is looking at the question, so we'll get some more information soon.[^6]
+There are ways we can test whether this polarisation occurs in New Zealand online communities, but the work hasn't been done in New Zealand yet. The good news is that current research is looking at the question, so we'll get some more information soon.
 
 
 
