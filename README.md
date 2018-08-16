@@ -85,10 +85,7 @@ But when your biggest revenue stream is advertising revenue, what does this mean
 
 **Comments, trolls and the enragement economy:** Social media platforms measure engagement as a metric of success. Whether you are sharing tips about gardening with your community, or arguing with a racist relative, the platform recognizes the same merit in the interaction. Platforms and their users might encourage types of content that is easier to make, or more likely to be shared, including content that provokes outrage.  
 
-**Extremism and radicalisation: **[Zeynep's youtube article]
-
 Vocal supporters of free speech promote a "marketplace of ideas", where arguments compete on equal terms.. This assumes all the relevant perspectives and views get their fair share of attention, which is at odds with the algorithmic sorting that creates winners and losers in the attention sweepstakes. 
-
 
 
 *   How do we create a system where verified, true information is prized over  sensationalism and clickbait? How do we as audiences create demand for this?
