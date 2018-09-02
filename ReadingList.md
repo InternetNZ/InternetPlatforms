@@ -84,6 +84,10 @@ Themes: #InformationDisorder
 > Buzzfeed News
 > https://www.buzzfeednews.com/article/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook
 
+> **Disinformation on social media: How screwed are we?**
+> Too Embarrassed to Ask
+> https://www.recode.net/2018/7/6/17538746/renee-diresta-data-democracy-disinformation-2018-midterms-social-media-politics-kara-swisher-podcast
+
 > **Calling Bullshit in the age of big data**
 > https://callingbullshit.org/syllabus.html
 
@@ -112,6 +116,10 @@ Themes: #InformationDisorder
 > **The invisible curation of content | Facebook’s News Feed and our information diets**
 > World Wide Web Foundation
 > https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/
+
+> **#136 Digital Humanism**
+> Sam Harris
+> https://samharris.org/podcasts/136-digital-humanism/
 
 ## On automated abuse of platforms
 
@@ -170,6 +178,13 @@ Themes: #InformationDisorder
 > Mike Masnick
 > https://www.techdirt.com/articles/20180808/17090940397/platforms-speech-truth-policy-policing-impossible-choices.shtml
 
+## The place of public broadcasting
+
+> **Nordicity Public Broadcasting comparison**
+> http://www.cbc.radio-canada.ca/_files/cbcrc/documents/latest-studies/nordicity-public-broadcaster-comparison-2016.pdf
+
+Page 9 - international comparison of public broadcasting per capita puts NZ at the bottom, only beating the USA. We are out of line with other western democracies with how we fund public media. 
+
 ## To process
 
 https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf
@@ -182,4 +197,5 @@ https://foreignpolicy.com/2018/05/29/macrons-fake-news-solution-is-a-problem/
 https://thespinoff.co.nz/society/13-08-2018/misinformation-is-riding-a-digital-wave-heres-how-we-can-counter-it/
 https://www.washingtonpost.com/opinions/beware-the-digital-censor/2018/08/12/997e28ea-9cd0-11e8-843b-36e177f3081c_story.html
 https://newamericadotorg.s3.amazonaws.com/documents/Santa_Clara_Principles.pdf
+https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/
 
