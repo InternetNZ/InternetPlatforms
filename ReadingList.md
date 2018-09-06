@@ -199,3 +199,7 @@ https://www.washingtonpost.com/opinions/beware-the-digital-censor/2018/08/12/997
 https://newamericadotorg.s3.amazonaws.com/documents/Santa_Clara_Principles.pdf
 https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/
 
+> **An Avalanche of Speech Can Bury Democracy**
+> Zenep Tufecki
+> https://www.politico.com/magazine/story/2018/09/05/too-much-free-speech-bad-democracy-219587 
+
