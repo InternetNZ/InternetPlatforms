@@ -199,6 +199,7 @@ https://www.washingtonpost.com/opinions/beware-the-digital-censor/2018/08/12/997
 https://newamericadotorg.s3.amazonaws.com/documents/Santa_Clara_Principles.pdf
 https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/
 https://www.wsj.com/articles/sheryl-sandberg-leans-into-a-gale-of-bad-news-at-facebook-1536085230
+http://www.newsworksnz.co.nz/media/118667/the-truth-about-media-trust-no-videos.pdf
 
 > **An Avalanche of Speech Can Bury Democracy**
 > Zenep Tufecki
