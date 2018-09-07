@@ -198,8 +198,13 @@ https://thespinoff.co.nz/society/13-08-2018/misinformation-is-riding-a-digital-w
 https://www.washingtonpost.com/opinions/beware-the-digital-censor/2018/08/12/997e28ea-9cd0-11e8-843b-36e177f3081c_story.html
 https://newamericadotorg.s3.amazonaws.com/documents/Santa_Clara_Principles.pdf
 https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/
+https://www.wsj.com/articles/sheryl-sandberg-leans-into-a-gale-of-bad-news-at-facebook-1536085230
 
 > **An Avalanche of Speech Can Bury Democracy**
 > Zenep Tufecki
 > https://www.politico.com/magazine/story/2018/09/05/too-much-free-speech-bad-democracy-219587 
+
+> **White paper on regulatory options from democratic Senator Mark Warner**
+> Mark Warner
+> https://www.axios.com/mark-warner-google-facebook-regulation-policy-paper-023d4a52-2b25-4e44-a87c-945e73c637fa.html
 
