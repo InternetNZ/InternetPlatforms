@@ -209,3 +209,8 @@ http://www.newsworksnz.co.nz/media/118667/the-truth-about-media-trust-no-videos.
 > Mark Warner
 > https://www.axios.com/mark-warner-google-facebook-regulation-policy-paper-023d4a52-2b25-4e44-a87c-945e73c637fa.html
 
+> **When anti-1080 activism grew noisy, and got ugly**
+> Hayden Donnell
+> https://thespinoff.co.nz/society/17-09-2018/when-anti-1080-activism-grew-noisy-and-got-ugly/
+An example of an organized misinformation campaign in New Zealand
+
